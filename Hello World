@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Shawn's Introductory Website</title>
+</head>
+<body>
+<style>
+H1 {text-align: center}
+</style>
+<h1>Hi My Name is...Shawn Releford</h1>
+<h2> Texas Tech MSCS student, Cybersecurity MS Holder University of Dallas 2019, Aspiring Software Engineer</h2>
+<img src="https://ibb.co/Vj3YqxN" alt="Shawn Releford">
+</body>
+</html>
